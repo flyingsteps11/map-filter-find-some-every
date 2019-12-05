@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c64c99c5-6dc3-4365-afd7-6600a0c72962" name="Default Changelist" comment="" />
+    <list default="true" id="e37c131d-97a9-4fbf-b7d9-55a175688f27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/map-filter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/map-filter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/every/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/every/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/every/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/every/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/filter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/filter/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/find/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/find/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/map/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/map/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/some/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/some/test.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="map-filter" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,85 +32,146 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1UYqsNFKwtrzwYcvEsivGpD8h2b" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectId" id="1UG5LTK1phv90maI3aGLeAYbyul" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
   </component>
-  <component name="RunManager">
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/map/test.js" working-dir="$PROJECT_DIR$/map">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.some">
+    <configuration name="find.Массив строк. Должен вернуть &quot;doggie&quot;" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/find/test.js</test-file>
+      <test-names>
+        <name value="find" />
+        <name value="Массив строк. Должен вернуть &quot;doggie&quot;" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="some" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/some/test.js</test-file>
+      <test-names>
+        <name value="some" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="some.Возвращаемый тип данных должен быть boolean" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/some/test.js</test-file>
+      <test-names>
+        <name value="some" />
+        <name value="Возвращаемый тип данных должен быть boolean" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="some.Должен вернуть false" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/some/test.js</test-file>
+      <test-names>
+        <name value="some" />
+        <name value="Должен вернуть false" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="some.Должен вернуть true" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/some/test.js</test-file>
+      <test-names>
+        <name value="some" />
+        <name value="Должен вернуть true" />
+      </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Mocha.some" />
+        <item itemvalue="Mocha.some.Должен вернуть false" />
+        <item itemvalue="Mocha.some.Должен вернуть true" />
+        <item itemvalue="Mocha.some.Возвращаемый тип данных должен быть boolean" />
+        <item itemvalue="Mocha.find.Массив строк. Должен вернуть &quot;doggie&quot;" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c64c99c5-6dc3-4365-afd7-6600a0c72962" name="Default Changelist" comment="" />
-      <created>1575544081935</created>
+      <changelist id="e37c131d-97a9-4fbf-b7d9-55a175688f27" name="Default Changelist" comment="" />
+      <created>1574970036157</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575544081935</updated>
-      <workItem from="1575544084342" duration="150000" />
-      <workItem from="1575544242480" duration="2019000" />
+      <updated>1574970036157</updated>
+      <workItem from="1574970039859" duration="4031000" />
+      <workItem from="1575565881738" duration="1607000" />
+      <workItem from="1575567904340" duration="184000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Vim_Emulation" timestamp="1575544283165">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" key="#Vim_Emulation/0.0.1920.1040@0.0.1920.1040" timestamp="1575544283165" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575546249835">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575546249835" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1575546262500">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575546262500" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1575546262500">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575546262500" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1575546262499">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575546262499" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1575546262500">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575546262500" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1575544233903">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575544233903" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
